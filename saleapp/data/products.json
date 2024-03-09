@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "name": "Iphone15",
+    "Price": 25000000,
+    "image": "https://cdn1.viettelstore.vn/Images/Product/ProductImage/1625176058.jpeg",
+    "category_id": 1
+  },
+  {
+    "id": 2,
+    "name": "Iphone13",
+    "Price": 20000000,
+    "image": "https://tabletplaza.vn/images/thumbnails/450/320/detailed/21/13_kgma-cc.png",
+    "category_id": 1
+  },
+  {
+    "id": 3,
+    "name": "Galaxy A23",
+    "Price": 18000000,
+    "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/8/_/8_77.jpg",
+    "category_id": 1
+  },
+  {
+    "id": 4,
+    "name": "Galaxy Note20",
+    "Price": 16000000,
+    "image": "https://clickbuy.com.vn//uploads/images/2020/08/thumb_Note20_3.jpg",
+    "category_id": 1
+  },
+  {
+    "id": 5,
+    "name": "Iphone13 Pro Max",
+    "Price": 19000000,
+    "image": "https://clickbuy.com.vn//uploads/images/2022/04/avt-iphone-13-pro-max-sierra-blue.png",
+    "category_id": 1
+  },
+  {
+    "id": 6,
+    "name": "T-Shirt",
+    "Price": 300000,
+    "image": "https://pos.nvncdn.com/e55206-92814/ps/20230704_QMkdr8j7Do.jpeg",
+    "category_id": 3
+  },
+  {
+    "id": 7,
+    "name": "Pants",
+    "Price": 900000,
+    "image": "https://pos.nvncdn.com/c1bbe5-93650/ps/20220707_cpderEgmu1HTbQ24ndLxXE0M.jpg",
+    "category_id": 3
+  },
+  {
+    "id": 8,
+    "name": "Shoes",
+    "Price": 2000000,
+    "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/ca79d356-421f-4a96-a823-b695f15c7a34/in-season-tr-13-workout-shoes-BDTlPf.png",
+    "category_id": 3
+  },
+  {
+    "id": 9,
+    "name": "Refrigerator",
+    "Price": 19999000,
+    "image": "https://www.lg.com/ph/images/refrigerators/md05882016/gallery/GR-H432HLHN-front.jpg",
+    "category_id": 2
+  },
+  {
+    "id": 10,
+    "name": "Washing machine",
+    "Price": 1380000,
+    "image": "https://media3.bosch-home.com/Product_Shots/1600x900/20305220_WGG254A0SG_STP_def.png",
+    "category_id": 2
+  },
+  {
+    "id": 11,
+    "name": "Dishwasher",
+    "Price": 18500000,
+    "image": "https://5.imimg.com/data5/YW/PZ/EF/SELLER-25812521/dish-washer-machine.jpg",
+    "category_id": 2
+  }
+]
